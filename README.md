@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://workspace.adorbistech.com/adorbis-logo.png" height="60" alt="Adorbis" />
+<a href="https://workspace.adorbistech.com">
+  <img src="https://workspace.adorbistech.com/adorbis-logo.png" height="60" alt="Adorbis Workspace" />
+</a>
 
 # Adorbis Workspace Packs
 
@@ -11,7 +13,7 @@
 [![Models](https://img.shields.io/badge/Models-40%2B-purple)](https://ai.adorbistech.com)
 [![Free to start](https://img.shields.io/badge/Free-1000%20credits-orange)](https://ai.adorbistech.com)
 
-[Get Free Key](https://ai.adorbistech.com) · [Workspace Directory](https://workspace.adorbistech.com) · [Docs](https://ai.adorbistech.com/docs)
+[**Browse Workspaces →**](https://workspace.adorbistech.com) &nbsp;·&nbsp; [Get Free Key](https://ai.adorbistech.com) &nbsp;·&nbsp; [Docs](https://ai.adorbistech.com/docs)
 
 </div>
 
@@ -47,11 +49,7 @@ Pick your workspace. Copy the config. Replace your key. Done.
 
 **Step 1 — Get your free API key**
 
-```
-https://ai.adorbistech.com
-```
-
-1,000 free Adorbis Credits included. No credit card required.
+Sign up at [ai.adorbistech.com](https://ai.adorbistech.com) — 1,000 free Adorbis Credits included. No credit card required.
 
 **Step 2 — Clone this repo**
 
@@ -119,6 +117,6 @@ The workspace tools listed above are independently maintained by their respectiv
 
 <div align="center">
 
-Made by [Adorbis LLC](https://ai.adorbistech.com) · Sheridan, Wyoming
+Made by [Adorbis LLC](https://ai.adorbistech.com) &nbsp;·&nbsp; [workspace.adorbistech.com](https://workspace.adorbistech.com)
 
 </div>
