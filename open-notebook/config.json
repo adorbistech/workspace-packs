@@ -1,0 +1,6 @@
+﻿{
+  "llm_provider": "openai",
+  "openai_base_url": "https://api.adorbistech.com/v1",
+  "openai_api_key": "YOUR_ADORBIS_API_KEY",
+  "model": "adorbis/auto"
+}

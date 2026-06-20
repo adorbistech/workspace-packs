@@ -1,0 +1,8 @@
+﻿{
+  "ai": {
+    "provider": "openai",
+    "baseUrl": "https://api.adorbistech.com/v1",
+    "apiKey": "YOUR_ADORBIS_API_KEY",
+    "model": "adorbis/auto"
+  }
+}
